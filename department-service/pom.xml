@@ -8,7 +8,7 @@
 		<version>2.3.7.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>io.swapn</groupId>
+	<groupId>io.swap</groupId>
 	<artifactId>department-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>department-service</name>
